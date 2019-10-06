@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3299ca0ee87410c4399ee3d19337c958
+timeCreated: 1518404683
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balleRouge: {fileID: 21300000, guid: 538e491967a4d2d49921bb122247da20, type: 3}
+  - balleBleue: {fileID: 21300000, guid: f8ca1cc6728da93468c695eaa473af7e, type: 3}
+  - balleVerte: {fileID: 21300000, guid: 98295ca5f71032147b9cd94a2f999ff6, type: 3}
+  - balleMauve: {fileID: 21300000, guid: dc1a7575bfaec8046bcfdb815d4ecff0, type: 3}
+  - balleJaune: {fileID: 21300000, guid: 5ef902cd48a43814e960f27e3ba670a4, type: 3}
+  - balleOrange: {fileID: 21300000, guid: cb5a82b10d4eab54198259f9ed2f87b3, type: 3}
+  - balleViolette: {fileID: 21300000, guid: 959f1225767a44140a40b60c5111d427, type: 3}
+  - balleVide: {fileID: 21300000, guid: 0054763585ed2b541a3e53c5e9ca5f09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

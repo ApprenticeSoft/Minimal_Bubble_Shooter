@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<languages>
+  <Start EN="Start" FR="Commencer" ES="Commenzar" DE="Start" />
+  <Play EN="Play" FR="Jouer" ES="Jugar" DE="Spielen" />
+  <Options EN="Options" FR="Options" ES="Opciones" DE="Optionen" />
+  <Quit EN="Quit" FR="Quitter" ES="Dejar" DE="Beenden" />
+  <Language EN="Language" FR="Langue" ES="Idioma" DE="Sprache" />
+  <LevelSelection EN="Levels" FR="Niveaux" ES="Niveles" DE="Levels" />
+  <Resume EN="Resume" FR="Reprendre" ES="Reanudar" DE="Fortfahren" />
+  <Restart EN="Restart" FR="Recommencer" ES="Reiniciar" DE="Neustart" />
+  <Pause EN="Pause" FR="Pause" ES="Pausa" DE="Pause" />
+  <Home EN="Home" FR="Accueil" ES="Home" DE="Home" />
+  <Return EN="Return" FR="Retour" ES="Volver" DE="Home" />
+  <LevelCleared EN="Level Cleared" FR="Niveau Termine" ES="Nivel Completado" DE="Level geschafft" />
+  <YouLost EN="You Lost" FR="Vous avez perdu" ES="Perdiste" DE="Du hast verloren" />
+  <Next EN="Next" FR="Suivant" ES="Siguiente" DE="Nächster" />
+  <Continue EN="Continue" FR="Continuer" ES="Continuar" DE="Weiter" />
+  <Yes EN="Yes" FR="Oui" ES="Si" DE="Ja" />
+  <No EN="No" FR="Non" ES="No" DE="Nein" />
+  <OK EN="OK" FR="OK" ES="OK" DE="OK" />
+  <DoYouLike EN="Do you enjoy Cosmonaut?" FR="Vous aimez Cosmonaut?" ES="¿Te gusta Cosmonaut?" DE="Gefällt ihnen Cosmonaut?" />
+  <DoYouRate EN="Do you want to rate it?" FR="Voulez vous le noter?" ES="¿Le evalúe?" DE="Wollen Sie es Bewerten?" />
+  <Later EN="Later" FR="Plus tard" ES="Más tarde" DE="Später" />
+  <Never EN="Never" FR="Jamais" ES="Nunca" DE="Nie" />
+  <RemoveAds EN="Remove all ads" FR="Supprime toutes les publicités" ES="Elimina todos los anuncios" DE="Entfernt die Werbung" />
+  <ThankYou EN="Thank you for playing!" FR="Merci d'avoir joué!" ES="¡Gracias por jugar!" DE="Danke dass Sie gespielt haben" />
+  <Congratulations EN="Congratulations!" FR="Felicitations!" ES="¡Felicitaciones!" DE="Glückwünsche!" />
+  <Group EN="Group" FR="Groupe" ES="Grupo" DE="Gruppe" />
+  <Completed EN="Completed" FR="Complete" ES="Terminado" DE="Fertiggestellt" />
+</languages>
